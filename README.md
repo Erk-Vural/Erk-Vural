@@ -1,4 +1,4 @@
-#🥳 Hello there! I'm Erk Vural
+###🥳 Hello there! I'm Erk Vural
 
 I'm an senior CS student who tries to find his own path. ✌️
 I have experince with C#, Java, C++, C and Kotlin. 🧿
