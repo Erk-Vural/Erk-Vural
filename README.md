@@ -1,5 +1,5 @@
-# 🥳 Hello there! I'm Erk Vural
+#🥳 Hello there! I'm Erk Vural.
 
-I'm an Junior Software Developer who tries to find his own path. ✌️
-I have experince with C#, Java, C++, C, Python and Kotlin. 🧿
-I'm currently using Django for backend developing.
+I'm an senior CS student and Junior Software Engineer.
+I have experience with C, C++, C#, Java, Javascript,Python and Kotlin.
+I'm currently learning React and Redux for Front end. 
