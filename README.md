@@ -1,3 +1,6 @@
-🥳 Hello there! I'm Erk Vural.
+Hello there! I'm Erk Vural.
 
-I'm an senior CS student and Junior Software Engineer.
+During my 3 years at Computer Engineering bachelor I developed wide range of projects with different technologies.
+Worked as Full-stack Developer Intern and develop Web Apps. 
+Currently I'm a senior student and attending "Turkcell Java Backend Developer Bootcamp".
+Improving myself on "Java, Spring Framework, Back-end Development".
