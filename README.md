@@ -5,4 +5,6 @@ Worked as Full-stack Developer Intern and develop Web Apps.
 I'm a senior student and attending "Turkcell Java Backend Developer Bootcamp".
 Currently Improving myself on "Java, Spring Framework, Back-end Development".
 
-![Erk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erk-Vural&theme=dark&show_icons=true)
+![Erk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erk-Vural&theme=tokyonight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erk-Vural&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/Erk-Vural)
