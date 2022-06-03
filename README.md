@@ -1,7 +1,7 @@
 Hello there! I'm Erk Vural.
 
 During 3 years at Computer Engineering bachelor:
-- I developed wide range of projects with different technologies.
+- Developed wide range of projects with different technologies.
 - Worked as Full-stack Developer Intern and developed Web Apps. 
 - Attended "Turkcell Java Backend Developer Bootcamp", worked on Java, Spring Framework, Back-end Development.
 
