@@ -1,11 +1,7 @@
-Hello there! I'm Erk Vural.
-
-During 3 years at Computer Engineering bachelor:
-- Developed wide range of projects with different technologies.
-- Worked as Full-stack Developer Intern and developed Web Apps. 
-- Attended "Turkcell Java Backend Developer Bootcamp", worked on Java, Spring Framework, Back-end Development.
-
-Currently improving myself on "Java, Spring Framework, Back-end Development".
+During 3 years of programming journey; 
+• Developed wide range of projects with different technologies. 
+• Had experience at several companies as Developer Intern and Bootcamp student.
+• Keen to gain experience in Microservices, Cloud architecture, Software Security.
 
 ![Erk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erk-Vural&theme=tokyonight&show_icons=true)
 
