@@ -8,3 +8,5 @@ During 3 years of programming journey;
 ![Erk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erk-Vural&theme=tokyonight&show_icons=true)
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Erk-Vural&layout=compact&langs_count&theme=tokyonight&show_icons=true)](https://github.com/Erk-Vural)
+
+[![Top Langs]("https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Erk-Vural&layout=compact&langs_count=8&theme=tokyonight")
