@@ -9,4 +9,4 @@ During 3 years of programming journey;
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Erk-Vural&theme=tokyonight&show_icons=true)](https://github.com/Erk-Vural)
 
-![snake gif](https://github.com/erkvural/erkvural/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/erkvural/blob/output/github-contribution-grid-snake.svg)
