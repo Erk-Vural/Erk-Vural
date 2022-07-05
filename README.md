@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=erkvural&label=Profile%20views&color=0e75b6&style=flat" alt="erkvural" /> </p>
 
-During 3 years of programming journey; 
+During my 3 years of programming journey; 
 * Developed wide range of projects with different technologies. 
 * Had experience at several companies as Developer Intern and Bootcamp student.
 * Keen to gain experience in Microservices, Cloud Computing, Software Security.
