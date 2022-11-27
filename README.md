@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=erkvural&label=Profile%20views&color=0e75b6&style=flat" alt="erkvural" /> </p>
 
-Over the course of my three-year programming journey:
+Hello there I'm Erk. Over the course of my three-year programming journey:
 * I've developed a diverse range of projects utilizing various technologies.
 * Had experience working for different companies as a Software Developer.
 * Eager to develop experience in cloud computing, security, and microservices.
