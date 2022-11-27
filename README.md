@@ -1,9 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=erkvural&label=Profile%20views&color=0e75b6&style=flat" alt="erkvural" /> </p>
 
-During my 3 years of programming journey; 
-* Developed wide range of projects with different technologies. 
-* Had experience at several companies as Developer Intern and Bootcamp student.
-* Keen to gain experience in Microservices, Cloud Computing, Software Security.
+Over the course of my three-year programming journey:
+* I've developed a diverse range of projects utilizing various technologies.
+* Had experience working for different companies as a Software Developer.
+* Eager to develop experience in cloud computing, security, and microservices.
 
 ![Erk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erk-Vural&theme=tokyonight&show_icons=true)
 
