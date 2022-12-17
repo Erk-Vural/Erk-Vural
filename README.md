@@ -2,8 +2,8 @@
 
 Hello there I'm Erk. Over the course of my three-year programming journey:
 * Developed wide range of projects using various technologies.
-* Had experience as Software Developer for various companies.
-* Eager to gain experience on Cloud, Security, and Microservices.
+* Had experience as Software Developer at different roles.
+* Eager to gain experience on Cloud, Security and Microservices.
 
 ![Erk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erk-Vural&theme=tokyonight&show_icons=true)
 
