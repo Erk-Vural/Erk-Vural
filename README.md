@@ -6,8 +6,8 @@ Hello there,  I'm Erk. Throughout my three-year programming journey:
 
 Currently improving myself on:
 * Backend Development
-* Java
-* Spring
+* JavaScript
+* Node.js
 
 ![Erk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erk-Vural&theme=tokyonight&show_icons=true)
 
