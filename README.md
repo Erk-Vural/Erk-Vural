@@ -19,9 +19,9 @@ Throughout my three-year programming journey:
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erk-vural&theme=tokyonight&show_icons=true&locale=en" alt="erk-vural" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erk-vural&count_private=true&theme=tokyonight&show_icons=true&locale=en" alt="erk-vural" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=erk-vural&show_icons=true&theme=tokyonight&locale=en" alt="erk-vural" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=erk-vural&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="erk-vural" /></p>
 
 <br/><br/><br/>
 
