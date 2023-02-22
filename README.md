@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello there, I'm Erk.</h1>
 
-During my four-year programming adventure. Has experience as a software engineer in a variety of roles and developed a wide range of projects using different technologies.
+During my four-year programming journey. Has experience as a software engineer in a variety of roles and developed a wide range of projects using different technologies.
 
 <h3 align="left">Languages and Tools:</h3>
 
