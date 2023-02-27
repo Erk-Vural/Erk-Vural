@@ -1,10 +1,8 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=erkvural&label=Profile%20views&color=0e75b6&style=flat" alt="erkvural" /> </p>
-
 <h1 align="center">Hello there, I'm Erk.</h1>
 
 During my four-year programming journey. Has experience as a software engineer in a variety of roles and developed a wide range of projects using different technologies.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -17,7 +15,7 @@ During my four-year programming journey. Has experience as a software engineer i
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Technologies:</h3>
+<h3 align="left">Technologies and Tools:</h3>
 
 <p align="left">
   </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
