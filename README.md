@@ -26,11 +26,11 @@ During my four-year programming journey, had experience as a software engineer i
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=erk-vural&count_private=true&hide=PLpgSQL,HTML,CSS&theme=tokyonight&show_icons=true&locale=en" alt="erk-vural" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=erk-vural&count_private=true&hide=PLpgSQL,HTML,CSS&langs_count=6&theme=tokyonight&show_icons=true&locale=en" alt="erk-vural" /></p>
 
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erk-vural&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="erk-vural" /></p>
 
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
