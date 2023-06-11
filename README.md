@@ -1,6 +1,9 @@
 <h1 align="center">Hello there, I'm Erk.</h1>
 
-During my four-year programming journey, had experience as a software engineer in a variety of roles and developed a wide range of projects using different technologies.
+During my four-year programming journey, had experience as a software engineer in a
+variety of roles and developed a wide range of projects using different technologies. My
+main goal is to be an expert on high performance back-end services, cloud applications and
+software security.
 
 <h3 align="left">Languages and Frameworks:</h3>
 
