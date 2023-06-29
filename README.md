@@ -35,12 +35,10 @@ software security.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643bdc98e2725773748ee6dc?variant=dark)](https://roadmap.sh)
 
-<br/>
+<div>
+<h2 align="left"> Connect with me:</h2>
+<a href="https://linkedin.com/in/bugrahan-erk-vural" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bugrahan-erk-vural" height="30" width="40" /></a>
+<a href="https://medium.com/@erk.bugrahan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erk.bugrahan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/erk_bugrahan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erk_bugrahan" height="30" width="40" /></a>
+</div>
 
-<h3 align="left"> Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bugrahan-erk-vural" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bugrahan-erk-vural" height="30" width="40" /></a>
-<a href="https://medium.com/@erk.bugrahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erk.bugrahan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/erk_bugrahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erk_bugrahan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/erkbugrahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erkbugrahan" height="30" width="40" /></a>
-</p>
