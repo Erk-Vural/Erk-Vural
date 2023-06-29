@@ -33,7 +33,9 @@ software security.
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=erk-vural&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="erk-vural" /></p>
 
-<br/><br/><br/><br/><br/>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643bdc98e2725773748ee6dc?variant=dark)](https://roadmap.sh)
+
+<br/>
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
