@@ -29,9 +29,9 @@ software security.
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs?username=erk-vural&count_private=true&hide=PLpgSQL,HTML,CSS&langs_count=6&theme=tokyonight&show_icons=true&locale=en" alt="erk-vural" /></p>
-
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=erk-vural&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="erk-vural" /></p>
+[![](https://raw.githubusercontent.com/Erk-Vural/Erk-Vural/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Erk-Vural/Erk-Vural/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Erk-Vural/Erk-Vural/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Erk-Vural/Erk-Vural/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Erk-Vural/Erk-Vural/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643bdc98e2725773748ee6dc?variant=dark)](https://roadmap.sh)
 
