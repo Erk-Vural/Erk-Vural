@@ -1,9 +1,6 @@
 <h1 align="center">Hello there, I'm Erk.</h1>
 
-During my four-year programming journey, had experience as a software engineer in a
-variety of roles and developed a wide range of projects using different technologies. My
-main goal is to be an expert on high performance back-end services, cloud applications and
-software security.
+I am a Software Engineer with over 2 years of professional experience and more than 4 years of programming expertise, specializing in software development, quality assurance, and CI/CD processes. My work involves the development and maintenance of large, complex, and rapidly evolving projects, where I design and implement features, participate quality testing, and streamline software delivery through CI/CD. My dedication to secure, high-quality, and efficient application development drives me to continuously evolve and strive for mastery in the tech industry. I am currently learning Go and aim develop wide range of projects using go and various important technologies.
 
 <h3 align="left">Languages and Frameworks:</h3>
 
