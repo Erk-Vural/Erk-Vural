@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Erk.</h1>
 
-I am a Software Engineer with over 2 years of professional experience and more than 4 years of programming expertise, specializing in software development, quality assurance, and CI/CD processes. My work involves the development and maintenance of large, complex, and rapidly evolving projects, where I design and implement features, participate quality testing, and streamline software delivery through CI/CD. My dedication to secure, high-quality, and efficient application development drives me to continuously evolve and strive for mastery in the tech industry. I am currently learning Go and various other techologies.
+I am a passionate Software Engineer with experience across various stages of software development. My goal is to deepen my understanding of high-performance distributed applications that effectively handle significant traffic, while exploring cloud technologies and software security. Committed to continuous learning, I enjoy tackling software development challenges and implementing innovative methodologies to enhance software delivery.
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
