@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Erk.</h1>
 
-I am a passionate Software Engineer with experience across various stages of software development. My goal is to deepen my understanding of high-performance distributed applications that effectively handle significant traffic, while exploring cloud technologies and software security. Committed to continuous learning, I enjoy tackling software development challenges and implementing innovative methodologies to enhance software delivery.
+I'm a software engineer experienced in different stages of development, from writing backend services to improving system performance in production. I’m currently focused on scalable distributed systems, cloud technologies, and software security. I enjoy solving real problems and learning along the way.
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
