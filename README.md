@@ -1,6 +1,12 @@
 <h1 align="center">Hello there, I'm Erk.</h1>
 
-I'm a software engineer experienced in different stages of development, from writing backend services to improving system performance in production. I’m currently focused on scalable distributed systems, cloud technologies, and software security. I enjoy solving real problems and learning along the way.
+I’m a software engineer passionate about building practical, reliable, and scalable systems. I’ve worked across startups, telco, R&D, and fintech, delivering solutions that improve efficiency and system performance.
+
+- Built applications from scratch, migrated legacy repositories, and streamlined production workflows—cutting request processing time by 86% in a high-scale environment.
+
+- Scaled services to handle 3× more daily requests, rewrote event-service logic to reduce errors by 90%, and automated workflows to reduce manual checks by 80%.
+
+- I share clear documentation, mentor colleagues, and enjoy collaborating to solve challenging technical problems. I’m looking to apply these hands-on skills to build dependable systems at scale.
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
